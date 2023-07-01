@@ -43,19 +43,17 @@
 
 스플래시 / 로그인
 
-![image](https://github.com/gogumaC/ImHome/assets/59639035/12962c4d-3e59-41f9-9f00-3822c8e0bca2)
+<img src="https://github.com/gogumaC/ImHome/assets/59639035/12962c4d-3e59-41f9-9f00-3822c8e0bca2" width=300px>
 
-
-![image](https://github.com/gogumaC/ImHome/assets/59639035/4f5471db-5deb-4f1e-a73c-d8b52c7d0f56)
-
+<img src="https://github.com/gogumaC/ImHome/assets/59639035/4f5471db-5deb-4f1e-a73c-d8b52c7d0f56" width=300px>
 
 ---
 
 피드 / 글쓰기
 
-![image](https://github.com/gogumaC/ImHome/assets/59639035/8a0d80d7-804f-4793-a855-34e76cffda5b)
+<img src="https://github.com/gogumaC/ImHome/assets/59639035/8a0d80d7-804f-4793-a855-34e76cffda5b" width=300px>
 
-![image](https://github.com/gogumaC/ImHome/assets/59639035/a2319074-0c46-4dd8-bbba-d4594dd06efb)
+<img src="https://github.com/gogumaC/ImHome/assets/59639035/a2319074-0c46-4dd8-bbba-d4594dd06efb" width=300px>
 
 
 
