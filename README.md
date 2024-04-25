@@ -7,7 +7,7 @@
 - Team :
   - [김유빈](https://github.com/gogumaC) (안드로이드 앱개발)
   - [안혜준](https://github.com/jagaldol) (안드로이드 앱개발)
-  -  [구한서](https://github.com/goohanseo) (백엔드)
+  - [구한서](https://github.com/goohanseo) (백엔드)
   - [김수현](https://github.com/suhyun0918?tab=repositories) (백엔드)
 - 기간 : 2022.08.13 ~ 2022.08.14
 
